@@ -64,6 +64,10 @@ footer {
     background-color: whitesmoke;
   }
 
+  .col-3 {
+    width: 50%;
+  }
+
   #column-1 {
     background-color: olive;
   }
@@ -74,6 +78,7 @@ footer {
 
   #column-3 {
     background-color: royalblue;
+    width: 100%;
   }
 
   footer {
@@ -89,6 +94,10 @@ footer {
     background-color: whitesmoke;
   }
 
+  .col-3 {
+    width: 33.3%;
+  }
+
   #column-1 {
     background-color: navy;
   }
@@ -99,6 +108,7 @@ footer {
 
   #column-3 {
     background-color: magenta;
+    width: 33.3%;
   }
 
   footer {
